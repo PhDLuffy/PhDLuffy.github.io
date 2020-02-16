@@ -4,7 +4,7 @@ title:      我的第一篇博客，搭建于github pages
 subtitle:   Hello World！
 date:       2020-02-16
 author:     PhDLuffy
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-tower.jpg
 catalog: true
 tags:
     - 生活
