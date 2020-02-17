@@ -10,7 +10,7 @@ tags:
     - 生活
 ---
 
-<p>music.163.com/outchain/player?type=2&id=29561063&auto=1&height=66</p>
+<p>http://q5uwd6lj0.bkt.clouddn.com/Our-Own-Heaven.mp3?e=1581963814&token=Cxe6wGBnenXlGf50fcTCu9YBzALQQuPUtlRfj37Z:DvG9uh9sfiJIgSrbhaliYkdadEA=</p>
 ## 今日小记
 
 忙活了一天，折腾来折腾去，MiniPC的风扇转了两天了，还是没有把一个40G的单文件上传成功到百度云，只能说百度太鸡贼了，上传30%多就给你断线重新上传，不过反正我是NAS，无所谓，看最后谁耗得过谁？哼
