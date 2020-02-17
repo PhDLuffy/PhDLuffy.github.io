@@ -5,15 +5,18 @@ subtitle:   练习练习
 date:       2020-02-17
 author:     PhDLuffy
 header-img: img/post-bg-coffee.jpeg
-music-id: 29561063
 catalog: true
 tags:
     - 生活
 ---
 
+music-id: 29561063
+
 > "音乐是有颜色的吧"
 >
 > "废话……"
+
+
 
 ## 今日小记
 
