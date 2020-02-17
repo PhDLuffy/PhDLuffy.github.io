@@ -4,7 +4,7 @@ title:      Mac下使用Typora写博客
 subtitle:   练习练习
 date:       2020-02-17
 author:     PhDLuffy
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - 生活
