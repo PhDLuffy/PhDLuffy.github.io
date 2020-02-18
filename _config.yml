@@ -57,31 +57,10 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # disqus_username: phdluffy
 
 # Gitalk
   gitalk:
-=======
-# disqus_username: qiubaiying
-
-# Gitalk
-gitalk:
->>>>>>> parent of fd7e4cf... Update _config.yml
-=======
-# disqus_username: qiubaiying
-
-# Gitalk
-gitalk:
->>>>>>> parent of fd7e4cf... Update _config.yml
-=======
-# disqus_username: qiubaiying
-
-# Gitalk
-gitalk:
->>>>>>> parent of fd7e4cf... Update _config.yml
   enable: true    #是否开启Gitalk评论
   clientID: be122b084225649876ae                            #生成的clientID
   clientSecret: 3423f0d3987a56c93bacd263b93ca397e0b864c7    #生成的clientSecret
