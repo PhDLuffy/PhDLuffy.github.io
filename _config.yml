@@ -56,18 +56,18 @@ kramdown:
 
 
 # 评论系统
-Disqus（https://disqus.com/）
+# Disqus（https://disqus.com/）
 disqus_username: phdluffy
 
 # Gitalk
-#gitalk:
-#  enable: true    #是否开启Gitalk评论
-#  clientID: be122b084225649876ae                            #生成的clientID
-#  clientSecret: 3423f0d3987a56c93bacd263b93ca397e0b864c7    #生成的clientSecret
-#  repo: PhDLuffy.github.io    #仓库名称
-#  owner: PhDLuffy    #github用户名
-#  admin: [PhDLuffy]
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  gitalk:
+  enable: false    #是否开启Gitalk评论
+  clientID: be122b084225649876ae                            #生成的clientID
+  clientSecret: 3423f0d3987a56c93bacd263b93ca397e0b864c7    #生成的clientSecret
+  repo: PhDLuffy.github.io    #仓库名称
+  owner: PhDLuffy    #github用户名
+  admin: [PhDLuffy]
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
