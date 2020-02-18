@@ -58,10 +58,17 @@ kramdown:
 # 评论系统
 # Disqus（https://disqus.com/）
 <<<<<<< HEAD
+<<<<<<< HEAD
 # disqus_username: phdluffy
 
 # Gitalk
   gitalk:
+=======
+# disqus_username: qiubaiying
+
+# Gitalk
+gitalk:
+>>>>>>> parent of fd7e4cf... Update _config.yml
 =======
 # disqus_username: qiubaiying
 
