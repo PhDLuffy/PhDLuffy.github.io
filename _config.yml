@@ -59,10 +59,17 @@ kramdown:
 # Disqus（https://disqus.com/）
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # disqus_username: phdluffy
 
 # Gitalk
   gitalk:
+=======
+# disqus_username: qiubaiying
+
+# Gitalk
+gitalk:
+>>>>>>> parent of fd7e4cf... Update _config.yml
 =======
 # disqus_username: qiubaiying
 
