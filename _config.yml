@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-#disqus_username: phdluffy
+disqus_username: phdluffy
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 226bf4517ab15187f267                            #生成的clientID
   clientSecret: 05c7702acf1ce424dffa1de21e402cf6c5de2dea    #生成的clientSecret
   repo: PhDLuffy.github.io    #仓库名称
