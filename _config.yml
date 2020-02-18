@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
   gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: be122b084225649876ae                            #生成的clientID
-  clientSecret: 3423f0d3987a56c93bacd263b93ca397e0b864c7    #生成的clientSecret
+  clientID: 226bf4517ab15187f267                            #生成的clientID
+  clientSecret: 05c7702acf1ce424dffa1de21e402cf6c5de2dea    #生成的clientSecret
   repo: PhDLuffy.github.io    #仓库名称
   owner: PhDLuffy    #github用户名
   admin: [PhDLuffy]
