@@ -2,7 +2,7 @@
 >
 > ---------Descartes
 
-Hi, I am **PhDLuffy**, you can call me **Luffy**. I am a PhD student. 噜噜噜噜噜
+Hi, I am **PhDLuffy**, you can call me **Luffy**. I am a PhD student. 
 
 This is my personal blog, through making Github Pages. My Github 👉 [Github · PhDLuffy](http://github.com/PhDLuffy).
 
