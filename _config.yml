@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: phdluffy  #此处前方去掉井号即可恢复Disqus评论系统
+# disqus_username: phdluffy  #此处前方去掉井号即可恢复Disqus评论系统
 
 # Gitalk
 gitalk:
