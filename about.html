@@ -3,22 +3,102 @@ layout: page
 title: "About"
 description: "Hey, this is PhDLuffy."
 header-img: "img/post-bg-rwd.jpg"
-multilingual: true
+
 ---
 
-{% include multilingual-sel.html %}
+<Language Selector>
+<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> 英文 English </option>
+</select> 
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
+
+    <!--copied from markdown -->
+    <blockquote><p>不积跬步，无以至千里<br>
+    不积小流，无以成江海<br>
+                        ---------《荀子·劝学》</p></blockquote>
+    
+    <p>Hey，我是<strong>PhDLuffy</strong>，一名在读博士生，目前在欧洲。</p>
+    
+    <p>我是要成为博士的男人。</p>
+    
+    <p>这是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的 个人博客。我在GitHub主页<a href="https://github.com/PhDLuffy">👉GitHub·PhDLuffy</a> 与 简书主页<a href="https://http://www.jianshu.com/u/085daa6ab5c8">👉PhDLuffy</a>。如果有什么问题，欢迎提出探讨~</p>
+    
+    <p></p>
+    
+    <h5>Talks</h5>
+    
+    <ul>
+        <li><a href="https://github.com">GitHub</a></li>
+        <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+        <li><a href="http://huangxuan.me/">Hux</a></li> 
+        <li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
+    </ul>
 </div>
 
 <!-- English Version -->
 <div class="en post-container">
-    {% capture about_en %}{% include about/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
+    <blockquote><p>Cogito ergo sum.<br>
+    ---------Descartes</p></blockquote>
+
+    <p>Hi, I am <strong>PhDLuffy</strong>，you can call me <strong>Luffy</strong>. I am a PhD student.</p>
+    
+    <p>This is my personal blog, through making Github Pages and Jekyll.My GitHub  👉 <a href="http://github.com/PhDLuffy">Github·PhDLuffy</a>.</p>
+    
+    <p>I am a sports enthusiast, I like swimming, running and badminton.</p>
+    
+    <h5>Talks</h5>
+    
+    <ul>
+    <li><a href="https://github.com">GitHub</a></li>
+    <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+    <li><a href="https://pages.github.com/">GitHub Pages</a></li>
+    <li><a href="https://PhDLuffy.github.io">PhDLuffy</a></li>
+    </ul>
+</div> 
+
+<Handle Language Change>
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+    
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#en"){
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // zh by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+    
+    // handle select change
+    function onLanChange(index){
+        if(index == 0){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+    
+    // init
+    _render();
+</script>
+
 
 <!-- Gitalk 评论 start  -->
 {% if site.gitalk.enable %}
