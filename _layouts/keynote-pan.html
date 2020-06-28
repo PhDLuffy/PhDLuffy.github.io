@@ -45,7 +45,7 @@ layout: default-pan
          * - told/imply users that there has more content below
          * - let user can scroll in mobile device, seeing the keynote-view is unscrollable
          */
-        $header.style.height = (window.innerHeight-50) + 'px';
+        $header.style.height = window.innerHeight + 'px';
     }
     document.addEventListener('DOMContentLoaded', function(){
         resize();
