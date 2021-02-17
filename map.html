@@ -107,6 +107,8 @@ header-img: "img/post-bg-ioses.jpg"
     <ul>
         <li><a href="javascript:void(0);" onmouseover="myOpen();">北京</a></li>
         <li><a href="javascript:void(0);" onmouseover="myOpen1();">拉萨</a></li>
+        <li><a href="javascript:void(0);" onmouseover="myOpen1();">上海</a></li>
+        <li><a href="javascript:void(0);" onmouseover="myOpen1();">里斯本</a></li>
     </ul>
 </div>
 
@@ -131,7 +133,14 @@ function addMarker() {
         map: map,
         position: [91.1721,29.6525]                                            //拉萨
     });
-
+    var marker2 = new AMap.Marker({
+        map: map,
+        position: [121.4737,31.2304]                                            //上海
+    });
+    var marker3 = new AMap.Marker({
+        map: map,
+        position: [-9.1393,38.7223]                                            //里斯本
+    });
 
 
     //鼠标点击marker弹出自定义的信息窗体
@@ -141,8 +150,12 @@ function addMarker() {
     AMap.event.addListener(marker1, 'mouseover', function () {
         infoWindow1.open(map, marker1.getPosition());                            //拉萨
     });
-
-
+    AMap.event.addListener(marker2, 'mouseover', function () {
+        infoWindow2.open(map, marker2.getPosition());                            //上海
+    });
+    AMap.event.addListener(marker3, 'mouseover', function () {
+        infoWindow3.open(map, marker3.getPosition());                            //里斯本
+    });
 
 
 
@@ -161,7 +174,17 @@ content1.push("<img src='http://tpc.googlesyndication.com/simgad/584349376982774
 content1.push("电话：010-64733333");
 content1.push("<a href='https//baidu.com'>Vlog连接</a>");
 
+var title2 = '东方明珠<span style="font-size:11px;color:#F00;">价格:999</span>',
+    content2 = [];
+content2.push("<img src='http://tpc.googlesyndication.com/simgad/5843493769827749134'>地址：黄浦江边");                                       //上海
+content2.push("电话：010-601260");
+content2.push("<a href='https//bing.com'>网页搜索</a>");
 
+var title3 = '贝伦蛋挞<span style="font-size:11px;color:#F00;">价格:999</span>',
+    content3 = [];
+content3.push("<img src='http://tpc.googlesyndication.com/simgad/5843493769827749134'>地址：航海纪念碑北边");                                       //里斯本
+content3.push("电话：351-98989898989");
+content3.push("<a href='https//youtube.com'>视频网页搜索</a>");
 
 var infoWindow = new AMap.InfoWindow({                                                                                                      //北京
     isCustom: true,  //使用自定义窗体
@@ -174,7 +197,17 @@ var infoWindow1 = new AMap.InfoWindow({                                         
     offset: new AMap.Pixel(16, -45)
 });
 
+var infoWindow2 = new AMap.InfoWindow({                                                                                                     //上海
+    isCustom: true,  //使用自定义窗体
+    content: createInfoWindow(title2, content2.join("<br/>")),
+    offset: new AMap.Pixel(16, -45)
+});
 
+var infoWindow3 = new AMap.InfoWindow({                                                                                                     //里斯本
+    isCustom: true,  //使用自定义窗体
+    content: createInfoWindow(title3, content3.join("<br/>")),
+    offset: new AMap.Pixel(16, -45)
+});
 
 //构建自定义信息窗体
 function createInfoWindow(title, content) {
