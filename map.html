@@ -108,6 +108,7 @@ header-img: "img/post-bg-ioses.jpg"
         <li><a href="javascript:void(0);" onmouseover="myOpen();">北京</a></li>
         <li><a href="javascript:void(0);" onmouseover="myOpen1();">拉萨</a></li>
         <li><a href="javascript:void(0);" onmouseover="myOpen1();">上海</a></li>
+        <li><a href="javascript:void(0);" onmouseover="myOpen1();">武汉</a></li>
         <li><a href="javascript:void(0);" onmouseover="myOpen1();">里斯本</a></li>
     </ul>
 </div>
@@ -141,7 +142,10 @@ function addMarker() {
         map: map,
         position: [-9.1393,38.7223]                                            //里斯本
     });
-
+    var marker4 = new AMap.Marker({
+        map: map,
+        position: [114.3055,30.5928]                                            //武汉
+    });
 
     //鼠标点击marker弹出自定义的信息窗体
     AMap.event.addListener(marker, 'mouseover', function () {
@@ -156,7 +160,9 @@ function addMarker() {
     AMap.event.addListener(marker3, 'mouseover', function () {
         infoWindow3.open(map, marker3.getPosition());                            //里斯本
     });
-
+    AMap.event.addListener(marker4, 'mouseover', function () {
+        infoWindow4.open(map, marker4.getPosition());                            //武汉
+    });
 
 
 }
@@ -186,6 +192,12 @@ content3.push("<img src='http://tpc.googlesyndication.com/simgad/584349376982774
 content3.push("电话：351-98989898989");
 content3.push("<a href='https//youtube.com'>视频网页搜索</a>");
 
+var title4 = '武汉磨山滑道<span style="font-size:11px;color:#F00;">价格:35下行，15上行</span>',
+    content4 = [];
+content4.push("<img src='https://gitee.com/PhDLuffy/PicGo/raw/master/img/20210218144934.jpg'>地址：武汉市武昌区沿湖大道58号东湖磨山景区内");                                       //武汉
+content4.push("");
+content4.push("<a href='https://www.bilibili.com/video/BV1jT4y1P7JA'>Vlog 06 滑道滑行听歌向</a>");
+
 var infoWindow = new AMap.InfoWindow({                                                                                                      //北京
     isCustom: true,  //使用自定义窗体
     content: createInfoWindow(title, content.join("<br/>")),
@@ -206,6 +218,11 @@ var infoWindow2 = new AMap.InfoWindow({                                         
 var infoWindow3 = new AMap.InfoWindow({                                                                                                     //里斯本
     isCustom: true,  //使用自定义窗体
     content: createInfoWindow(title3, content3.join("<br/>")),
+    offset: new AMap.Pixel(16, -45)
+});
+var infoWindow4 = new AMap.InfoWindow({                                                                                                     //武汉
+    isCustom: true,  //使用自定义窗体
+    content: createInfoWindow(title4, content4.join("<br/>")),
     offset: new AMap.Pixel(16, -45)
 });
 
