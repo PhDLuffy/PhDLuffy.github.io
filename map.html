@@ -163,8 +163,8 @@ header-img: "img/post-bg-ioses.jpg"
                 map: map,
             });
             marker.content = neirong[i];
-            marker.on('click', markerClick);
-            marker.emit('click', { target: marker });
+            marker.on('mouseover', markerClick);
+            marker.emit('mouseover', { target: marker });
         }
         function markerClick(e) {
             infoWindow.setContent(e.target.content);
