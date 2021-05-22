@@ -141,8 +141,8 @@ header-img: "img/post-bg-ioses.jpg"
         //初始化地图对象，加载地图
         var map = new AMap.Map("container", {
             resizeEnable: true,
-            center: [110, 35],
-            zoom: 4
+            center: [80, 35],
+            zoom: 3
         });
         var lnglats = [
             [116.481181, 39.989792],                                       //北京
@@ -155,6 +155,7 @@ header-img: "img/post-bg-ioses.jpg"
             [120.3826, 36.0671],                                            //青岛
             [114.1694, 22.3193],                                            //香港
             [106.9123, 29.4316],                                            //重庆
+            [-9.0800, 38.4300],                                            //里斯本
         ];
         var neirong = [
             ["<a href='https://ditu.amap.com/detail/B000A8URXB?citycode=110105'>详细信息</a>"],
@@ -167,6 +168,7 @@ header-img: "img/post-bg-ioses.jpg"
             ['我是青岛'],
             ['我是香港'],
             ['我是重庆火锅哈哈哈'],
+            ['我是里斯本'],
         ]
         var infoWindow = new AMap.InfoWindow({ offset: new AMap.Pixel(0, -30) });
         for (var i = 0, marker; i < lnglats.length; i++) {
