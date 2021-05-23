@@ -6,6 +6,22 @@ header-img: "img/post-bg-hacker.jpg"
 ---
 
 
-<iframe src="https://pan.phdluffy.com" width="2000" height="2000">
-        
-</iframe>
+
+
+
+
+    <body>
+    <iframe src="https://pan.phdluffy.com" id="myiframe" onload="changeFrameHeight()" frameborder="0"></iframe> 
+    <script>
+    function changeFrameHeight(){
+        var ifm= document.getElementById("myiframe");
+        ifm.height=document.documentElement.clientHeight;
+        ifm.width=document.documentElement.clientWidth;
+    }
+    window.onresize=function(){  
+         changeFrameHeight();
+         changeFrameWidth();  
+    } 
+    </script>
+    
+    
