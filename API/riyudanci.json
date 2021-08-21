@@ -2,16 +2,25 @@
   "riyuData" : [
     {
       "riyu" : "かいぞく　海賊"
+    },
+    {
+      "riyu" : "いち"
     }
-      ]
+  ],
   "luomaziData" : [
     {
       "luomazi" : "kaizoku"
+    },
+    {
+      "luomazi" : "ichi"
     }
-      ]
+  ],
   "fanyiData" : [
     {
       "fanyi" : "海贼"
+    },
+    {
+      "fanyi" : "一"
     }
-      ]
+  ]
 }
