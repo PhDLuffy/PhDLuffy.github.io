@@ -32,6 +32,9 @@
     },
     {
       "riyu" : "たつ"
+    },
+    {
+      "riyu" : "いもうと　妹"
     }
   ],
   "luomaziData" : [
@@ -67,6 +70,9 @@
     },
     {
       "luomazi" : "tatsu"
+    },
+    {
+      "luomazi" : "imouto"
     }
   ],
   "fanyiData" : [
@@ -102,6 +108,9 @@
     },
     {
       "fanyi" : "夏天"
+    },
+    {
+      "fanyi" : "妹"
     }
   ]
 }
