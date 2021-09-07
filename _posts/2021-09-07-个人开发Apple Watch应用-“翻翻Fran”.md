@@ -4,7 +4,7 @@ title:      个人开发Apple Watch应用-“翻翻Fran”
 subtitle:   Apple Watch个人程序-日语单词小应用
 date:       2021-09-07
 author:     PhDLuffy
-header-img: img/img/Blog/blog-2021-09-07-01.jpg
+header-img: img/Blog/blog-2021-09-07-01.jpg
 music-id: 1380239916
 catalog: true
 tags:
