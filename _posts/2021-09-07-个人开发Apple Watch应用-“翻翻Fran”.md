@@ -352,7 +352,7 @@ func getLocalizableSampleTemplate(for complication: CLKComplication, withHandler
 
 以上为当我们在表盘设置页面选择Complication的相应程序时候默认显示的预览界面内容
 
-![IMG_1381](https://cdn.jsdelivr.net/gh/PhDLuffy/PicGo/img/20210907221806.JPG)
+![设置预览界面显示内容](https://cdn.jsdelivr.net/gh/PhDLuffy/PicGo/img/20210907221806.JPG)
 
 getLocalizableSampleTemplate就是相应的模板，我们选择graphicRectangular这个family成员，template选择GraphicRectangularStandardBody这个，具体的显示布局，苹果开发官网有详细的展示，这个比较适合我的程序。
 
