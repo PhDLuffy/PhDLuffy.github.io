@@ -4,7 +4,7 @@ title:      Python处理JSON格式文件
 subtitle:   懒人偷懒系列
 date:       2021-09-24
 author:     PhDLuffy
-header-img: img/post-index-bg-dengziqi.jpg
+header-img: img/post-bg-python.jpg
 music-id: 185700
 catalog: true
 tags:
