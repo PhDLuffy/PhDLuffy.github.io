@@ -4,6 +4,9 @@
     },
     "riyuData":[
         {
+            "riyu":"会いたい"
+        },
+        {
             "riyu":"コート"
         },
         {
@@ -93,6 +96,9 @@
     ],
     "luomaziData":[
         {
+            "luomazi":"aitai"
+        },
+        {
             "luomazi":"ko-to"
         },
         {
@@ -181,6 +187,9 @@
         }
     ],
     "fanyiData":[
+        {
+            "fanyi":"想（和你）见面；想见到……"
+        },
         {
             "fanyi":"风衣大衣"
         },
