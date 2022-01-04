@@ -4,6 +4,12 @@
     },
     "riyuData":[
         {
+            "riyu":"ごめんなさい"
+        },
+        {
+            "riyu":"すみません"
+        },
+        {
             "riyu":"ゆき　雪"
         },
         {
@@ -99,6 +105,12 @@
     ],
     "luomaziData":[
         {
+            "luomazi":"go men na sai"
+        },
+        {
+            "luomazi":"sumimasen"
+        },
+        {
             "luomazi":"yuki"
         },
         {
@@ -193,6 +205,12 @@
         }
     ],
     "fanyiData":[
+        {
+            "fanyi":"对不起"
+        },
+        {
+            "fanyi":"不好意思,麻烦你"
+        },
         {
             "fanyi":"雪❄"
         },
