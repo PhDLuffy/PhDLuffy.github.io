@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      quantumultX中v2rayN格式vmess节点添加
-subtitle:   quantumultx系列
+title:      QuantumultX中v2rayN格式vmess节点添加
+subtitle:   Quantumultx系列
 date:       2022-03-01
 author:     PhDLuffy
 header-img: img/post-index-bg-dengziqi.jpg
