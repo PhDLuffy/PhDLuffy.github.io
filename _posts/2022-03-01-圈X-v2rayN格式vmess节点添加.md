@@ -2,7 +2,7 @@
 layout:     post
 title:      quantumultX中v2rayN格式vmess节点添加
 subtitle:   quantumultx系列
-date:       2022-01-01
+date:       2022-03-01
 author:     PhDLuffy
 header-img: img/post-index-bg-dengziqi.jpg
 music-id: 1454317928
