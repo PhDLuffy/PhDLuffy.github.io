@@ -4,7 +4,7 @@ title:      QuantumultX中v2rayN格式vmess节点添加
 subtitle:   Quantumultx系列
 date:       2022-03-01
 author:     PhDLuffy
-header-img: img/post-index-bg-dengziqi.jpg
+header-img: img/Blog/blog-2022-03-01-01.jpg
 music-id: 1454317928
 catalog: true
 tags:
