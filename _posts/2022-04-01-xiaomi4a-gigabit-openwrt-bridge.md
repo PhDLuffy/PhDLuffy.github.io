@@ -4,8 +4,8 @@ title:      Openwrt旁路由桥接模式设置
 subtitle:   Openwrt
 date:       2022-04-01
 author:     PhDLuffy
-header-img: img/post-index-bg-dengziqi.jpg
-music-id: 1385468249
+header-img: img/Blog/blog-20220-04-01-1.jpg
+music-id: 29802490
 catalog: true
 tags:
     - 科技生活
