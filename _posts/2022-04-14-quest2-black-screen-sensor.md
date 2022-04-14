@@ -4,7 +4,7 @@ title:      Quest2死亡黑屏解决方法
 subtitle:   一点也不省心的quest
 date:       2022-04-14
 author:     PhDLuffy
-header-img: img/Blog/post-index-bg-dengziqi.jpg
+header-img: img/Blog/blog-20220414-01.jpg
 music-id: 29802490
 catalog: true
 tags:
