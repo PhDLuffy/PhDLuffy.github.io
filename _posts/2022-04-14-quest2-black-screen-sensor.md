@@ -64,6 +64,12 @@ tags:
 
 ![距离传感器位置](https://cdn.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/Inked%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220414125837_LI(1649912693).jpg)
 
+参考文献
+
+[Proximity Sensor Issues - Oculus Community - 787353](https://forums.oculusvr.com/t5/Support/Proximity-Sensor-Issues/td-p/787353)
+
+
+
 以上，我是[@PhDLuffy](https://www.zhihu.com/people/PhDLuffy)，我们都有美好的未来。
 
 #### 感谢大家点赞、评论、分享、喜欢、收藏
