@@ -4,7 +4,7 @@ title:      Vlog11 葡萄牙辛特拉摩尔城堡
 subtitle:   徒步登山看城堡
 date:       2022-04-27
 author:     PhDLuffy
-header-img: img/post-bg-Vlog11.jpg
+header-img: img/Vlog/Vlog11.jpg
 music-id: 1490536483
 catalog: true
 tags:
