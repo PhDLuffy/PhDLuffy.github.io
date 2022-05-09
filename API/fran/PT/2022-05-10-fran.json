@@ -1,975 +1,480 @@
 {
-    "symbolData":[
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"eyes"
-        },
-        {
-            "symbol":"figure.wave"
-        },
-        {
-            "symbol":"cloud.snow"
-        },
-        {
-            "symbol":"person.wave.2.fill"
-        },
-        {
-            "symbol":"tshirt"
-        },
-        {
-            "symbol":"takeoutbag.and.cup.and.straw"
-        },
-        {
-            "symbol":"car"
-        },
-        {
-            "symbol":"ferry"
-        },
-        {
-            "symbol":"leaf"
-        },
-        {
-            "symbol":"applelogo"
-        },
-        {
-            "symbol":"person"
-        },
-        {
-            "symbol":"sun.min"
-        },
-        {
-            "symbol":"heart"
-        },
-        {
-            "symbol":"person.fill.and.arrow.left.and.arrow.right"
-        },
-        {
-            "symbol":"fork.knife"
-        },
-        {
-            "symbol":"option"
-        },
-        {
-            "symbol":"minus"
-        },
-        {
-            "symbol":"sun.haze"
-        },
-        {
-            "symbol":"person.2"
-        },
-        {
-            "symbol":"brain.head.profile"
-        },
-        {
-            "symbol":"seal.fill"
-        },
-        {
-            "symbol":"person.fill.checkmark"
-        },
-        {
-            "symbol":"lessthan"
-        },
-        {
-            "symbol":"greaterthan"
-        },
-        {
-            "symbol":"multiply"
-        },
-        {
-            "symbol":"person.wave.2"
-        },
-        {
-            "symbol":"person.3"
-        },
-        {
-            "symbol":"4k.tv"
-        },
-        {
-            "symbol":"allergens"
-        },
-        {
-            "symbol":"location.slash"
-        },
-        {
-            "symbol":"arrow.up.heart"
-        },
-        {
-            "symbol":"person.crop.circle.badge.moon"
-        },
-        {
-            "symbol":"person.crop.circle.badge.clock"
-        }
-    ],
-    "riyuData":[
-        {
-            "riyu":"terminar"
-        },
-        {
-            "riyu":"telefonema"
-        },
-        {
-            "riyu":"caro"
-        },
-        {
-            "riyu":"espanhol"
-        },
-        {
-            "riyu":"famoso"
-        },
-        {
-            "riyu":"desporto"
-        },
-        {
-            "riyu":"zona"
-        },
-        {
-            "riyu":"visitar"
-        },
-        {
-            "riyu":"outubro"
-        },
-        {
-            "riyu":"Boa viagem"
-        },
-        {
-            "riyu":"adultos"
-        },
-        {
-            "riyu":"passageiros"
-        },
-        {
-            "riyu":"gripe"
-        },
-        {
-            "riyu":"febre"
-        },
-        {
-            "riyu":"correio"
-        },
-        {
-            "riyu":"credito"
-        },
-        {
-            "riyu":"debito"
-        },
-        {
-            "riyu":"bacalhau no forno"
-        },
-        {
-            "riyu":"pasteis de bacalhau"
-        },
-        {
-            "riyu":"pao"
-        },
-        {
-            "riyu":"ja"
-        },
-        {
-            "riyu":"Ate logo"
-        },
-        {
-            "riyu":"Lisboa"
-        },
-        {
-            "riyu":"obrigado"
-        },
-        {
-            "riyu":"novo"
-        },
-        {
-            "riyu":"Boa noite"
-        },
-        {
-            "riyu":"Bom dia"
-        },
-        {
-            "riyu":"prazer"
-        },
-        {
-            "riyu":"multo"
-        },
-        {
-            "riyu":"Ola"
-        },
-        {
-            "riyu":"Boa tarde"
-        },
-        {
-            "riyu":"ごめんなさい"
-        },
-        {
-            "riyu":"すみません"
-        },
-        {
-            "riyu":"ゆき　雪"
-        },
-        {
-            "riyu":"会いたい"
-        },
-        {
-            "riyu":"コート"
-        },
-        {
-            "riyu":"レストラン"
-        },
-        {
-            "riyu":"くるま　車"
-        },
-        {
-            "riyu":"かいぞく　海賊"
-        },
-        {
-            "riyu":"さくら 桜🌸"
-        },
-        {
-            "riyu":"みかん"
-        },
-        {
-            "riyu":"わたし   私"
-        },
-        {
-            "riyu":"よる"
-        },
-        {
-            "riyu":"あい   愛"
-        },
-        {
-            "riyu":"ほら"
-        },
-        {
-            "riyu":"にく"
-        },
-        {
-            "riyu":"もしも"
-        },
-        {
-            "riyu":"いち"
-        },
-        {
-            "riyu":"たつ"
-        },
-        {
-            "riyu":"いもうと　妹"
-        },
-        {
-            "riyu":"なやみ　悩み"
-        },
-        {
-            "riyu":"くろ　黒"
-        },
-        {
-            "riyu":"あなた"
-        },
-        {
-            "riyu":"はい"
-        },
-        {
-            "riyu":"どうも"
-        },
-        {
-            "riyu":"いいえ"
-        },
-        {
-            "riyu":"こんにちは"
-        },
-        {
-            "riyu":"ちゅうごくじん"
-        },
-        {
-            "riyu":"テレビ"
-        },
-        {
-            "riyu":"ピンク"
-        },
-        {
-            "riyu":"だめ"
-        },
-        {
-            "riyu":"すき　好き"
-        },
-        {
-            "riyu":"おやすみなさい"
-        },
-        {
-            "riyu":"べんきょう　勉強"
-        }
-    ],
-    "symbolcolorData":[
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"eyes"
-        },
-        {
-            "symbolcolor":"figure.wave"
-        },
-        {
-            "symbolcolor":"cloud.snow"
-        },
-        {
-            "symbolcolor":"person.wave.2.fill"
-        },
-        {
-            "symbolcolor":"tshirt"
-        },
-        {
-            "symbolcolor":"takeoutbag.and.cup.and.straw"
-        },
-        {
-            "symbolcolor":"car"
-        },
-        {
-            "symbolcolor":"ferry"
-        },
-        {
-            "symbolcolor":"leaf"
-        },
-        {
-            "symbolcolor":"applelogo"
-        },
-        {
-            "symbolcolor":"person"
-        },
-        {
-            "symbolcolor":"sun.min"
-        },
-        {
-            "symbolcolor":"heart"
-        },
-        {
-            "symbolcolor":"person.fill.and.arrow.left.and.arrow.right"
-        },
-        {
-            "symbolcolor":"fork.knife"
-        },
-        {
-            "symbolcolor":"option"
-        },
-        {
-            "symbolcolor":"minus"
-        },
-        {
-            "symbolcolor":"sun.haze"
-        },
-        {
-            "symbolcolor":"person.2"
-        },
-        {
-            "symbolcolor":"brain.head.profile"
-        },
-        {
-            "symbolcolor":"seal.fill"
-        },
-        {
-            "symbolcolor":"person.fill.checkmark"
-        },
-        {
-            "symbolcolor":"lessthan"
-        },
-        {
-            "symbolcolor":"greaterthan"
-        },
-        {
-            "symbolcolor":"multiply"
-        },
-        {
-            "symbolcolor":"person.wave.2"
-        },
-        {
-            "symbolcolor":"person.3"
-        },
-        {
-            "symbolcolor":"4k.tv"
-        },
-        {
-            "symbolcolor":"allergens"
-        },
-        {
-            "symbolcolor":"location.slash"
-        },
-        {
-            "symbolcolor":"arrow.up.heart"
-        },
-        {
-            "symbolcolor":"person.crop.circle.badge.moon"
-        },
-        {
-            "symbolcolor":"person.crop.circle.badge.clock"
-        }
-    ],
-    "fanyiData":[
-        {
-            "fanyi":"结束"
-        },
-        {
-            "fanyi":"电话"
-        },
-        {
-            "fanyi":"贵的"
-        },
-        {
-            "fanyi":"西班牙语"
-        },
-        {
-            "fanyi":"著名的"
-        },
-        {
-            "fanyi":"体育"
-        },
-        {
-            "fanyi":"地区"
-        },
-        {
-            "fanyi":"参观"
-        },
-        {
-            "fanyi":"十月"
-        },
-        {
-            "fanyi":"旅途愉快"
-        },
-        {
-            "fanyi":"成人"
-        },
-        {
-            "fanyi":"旅客"
-        },
-        {
-            "fanyi":"感冒"
-        },
-        {
-            "fanyi":"发烧"
-        },
-        {
-            "fanyi":"邮局"
-        },
-        {
-            "fanyi":"信用卡"
-        },
-        {
-            "fanyi":"借记卡"
-        },
-        {
-            "fanyi":"焗鳕鱼"
-        },
-        {
-            "fanyi":"鳕鱼球"
-        },
-        {
-            "fanyi":"面包"
-        },
-        {
-            "fanyi":"马上"
-        },
-        {
-            "fanyi":"儿"
-        },
-        {
-            "fanyi":"里斯本"
-        },
-        {
-            "fanyi":"谢谢"
-        },
-        {
-            "fanyi":"新的"
-        },
-        {
-            "fanyi":"晚上好"
-        },
-        {
-            "fanyi":"早上好"
-        },
-        {
-            "fanyi":"愉快,高兴"
-        },
-        {
-            "fanyi":"非常"
-        },
-        {
-            "fanyi":"你好"
-        },
-        {
-            "fanyi":"下午好"
-        },
-        {
-            "fanyi":"对不起"
-        },
-        {
-            "fanyi":"不好意思,麻烦你"
-        },
-        {
-            "fanyi":"雪❄"
-        },
-        {
-            "fanyi":"想（和你）见面；想见到……"
-        },
-        {
-            "fanyi":"风衣大衣"
-        },
-        {
-            "fanyi":"餐馆,西餐馆"
-        },
-        {
-            "fanyi":"车🚖"
-        },
-        {
-            "fanyi":"海贼"
-        },
-        {
-            "fanyi":"樱花"
-        },
-        {
-            "fanyi":"蜜柑，橘子🍊"
-        },
-        {
-            "fanyi":"我"
-        },
-        {
-            "fanyi":"夜"
-        },
-        {
-            "fanyi":"爱❤️"
-        },
-        {
-            "fanyi":"瞧，语气词，引起注意"
-        },
-        {
-            "fanyi":"肉"
-        },
-        {
-            "fanyi":"如果"
-        },
-        {
-            "fanyi":"一"
-        },
-        {
-            "fanyi":"夏天"
-        },
-        {
-            "fanyi":"妹"
-        },
-        {
-            "fanyi":"烦恼 东野圭吾的解忧杂货店(ナミヤ)后两个片假名颠倒顺序"
-        },
-        {
-            "fanyi":"黑色"
-        },
-        {
-            "fanyi":"你"
-        },
-        {
-            "fanyi":"是的"
-        },
-        {
-            "fanyi":"非常,很"
-        },
-        {
-            "fanyi":"不,不是"
-        },
-        {
-            "fanyi":"你好"
-        },
-        {
-            "fanyi":"中国人🇨🇳"
-        },
-        {
-            "fanyi":"电视机📺"
-        },
-        {
-            "fanyi":"粉色"
-        },
-        {
-            "fanyi":"不要"
-        },
-        {
-            "fanyi":"喜欢😍"
-        },
-        {
-            "fanyi":"晚安"
-        },
-        {
-            "fanyi":"学习"
-        }
-    ],
-    "luomaziData":[
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"---"
-        },
-        {
-            "luomazi":"go men na sai"
-        },
-        {
-            "luomazi":"sumimasen"
-        },
-        {
-            "luomazi":"yuki"
-        },
-        {
-            "luomazi":"aitai"
-        },
-        {
-            "luomazi":"ko-to"
-        },
-        {
-            "luomazi":"resutoran"
-        },
-        {
-            "luomazi":"kuruma"
-        },
-        {
-            "luomazi":"kaizoku"
-        },
-        {
-            "luomazi":"sakura"
-        },
-        {
-            "luomazi":"mikan"
-        },
-        {
-            "luomazi":"watachi"
-        },
-        {
-            "luomazi":"yoru"
-        },
-        {
-            "luomazi":"ai"
-        },
-        {
-            "luomazi":"hora"
-        },
-        {
-            "luomazi":"niku"
-        },
-        {
-            "luomazi":"moshimo"
-        },
-        {
-            "luomazi":"ichi"
-        },
-        {
-            "luomazi":"tatsu"
-        },
-        {
-            "luomazi":"imouto"
-        },
-        {
-            "luomazi":"nayami"
-        },
-        {
-            "luomazi":"kuro"
-        },
-        {
-            "luomazi":"anata"
-        },
-        {
-            "luomazi":"hai"
-        },
-        {
-            "luomazi":"doumo"
-        },
-        {
-            "luomazi":"iie"
-        },
-        {
-            "luomazi":"konnichiha"
-        },
-        {
-            "luomazi":"cyuugokujin"
-        },
-        {
-            "luomazi":"terebi"
-        },
-        {
-            "luomazi":"pinku"
-        },
-        {
-            "luomazi":"dame"
-        },
-        {
-            "luomazi":"suki"
-        },
-        {
-            "luomazi":"oyasuminasai"
-        },
-        {
-            "luomazi":"benkyou"
-        }
-    ],
-    "languageData":{
-        "language":"葡语单词🇵🇹"
+  "symbolData" : [
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
+    },
+    {
+      "symbol" : "eyes"
     }
+  ],
+  "riyuData" : [
+    {
+      "riyu" : "vós "
+    },
+    {
+      "riyu" : "um, uma "
+    },
+    {
+      "riyu" : "turista "
+    },
+    {
+      "riyu" : "tu "
+    },
+    {
+      "riyu" : "três "
+    },
+    {
+      "riyu" : "sim "
+    },
+    {
+      "riyu" : "sexto "
+    },
+    {
+      "riyu" : "sétimo "
+    },
+    {
+      "riyu" : "sete "
+    },
+    {
+      "riyu" : "ser "
+    },
+    {
+      "riyu" : "seis "
+    },
+    {
+      "riyu" : "segundo "
+    },
+    {
+      "riyu" : "quinto "
+    },
+    {
+      "riyu" : "quarto "
+    },
+    {
+      "riyu" : "professor "
+    },
+    {
+      "riyu" : "primeiro "
+    },
+    {
+      "riyu" : "português "
+    },
+    {
+      "riyu" : "Portugal "
+    },
+    {
+      "riyu" : "oito "
+    },
+    {
+      "riyu" : "oitavo "
+    },
+    {
+      "riyu" : "o, a, os, as"
+    },
+    {
+      "riyu" : "nove"
+    },
+    {
+      "riyu" : "nós"
+    },
+    {
+      "riyu" : "nono"
+    },
+    {
+      "riyu" : "não"
+    },
+    {
+      "riyu" : "médico"
+    },
+    {
+      "riyu" : "lápis"
+    },
+    {
+      "riyu" : "falar"
+    },
+    {
+      "riyu" : "eu"
+    },
+    {
+      "riyu" : "estar"
+    },
+    {
+      "riyu" : "em"
+    }
+  ],
+  "symbolcolorData" : [
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    },
+    {
+      "symbolcolor" : "eyes"
+    }
+  ],
+  "fanyiData" : [
+    {
+      "fanyi" : " (p) 你们"
+    },
+    {
+      "fanyi" : " (num) 1"
+    },
+    {
+      "fanyi" : " (m|f) 旅游者"
+    },
+    {
+      "fanyi" : " (p) 你"
+    },
+    {
+      "fanyi" : " (num) 3"
+    },
+    {
+      "fanyi" : " (ad) 是"
+    },
+    {
+      "fanyi" : " (num) 第6"
+    },
+    {
+      "fanyi" : " (num) 第7"
+    },
+    {
+      "fanyi" : " (num) 7"
+    },
+    {
+      "fanyi" : " (vi) 是"
+    },
+    {
+      "fanyi" : " (num) 6"
+    },
+    {
+      "fanyi" : " (num) 第2"
+    },
+    {
+      "fanyi" : " (num) 第5"
+    },
+    {
+      "fanyi" : " (num) 第4"
+    },
+    {
+      "fanyi" : " (m) 教师"
+    },
+    {
+      "fanyi" : " (num) 第1"
+    },
+    {
+      "fanyi" : " (a) 葡萄牙的 (m) 葡萄牙人，葡萄牙语"
+    },
+    {
+      "fanyi" : " (m) 葡萄牙"
+    },
+    {
+      "fanyi" : " (num) 8"
+    },
+    {
+      "fanyi" : " (num) 第8"
+    },
+    {
+      "fanyi" : "这个，这些"
+    },
+    {
+      "fanyi" : "9"
+    },
+    {
+      "fanyi" : "我们"
+    },
+    {
+      "fanyi" : "第9"
+    },
+    {
+      "fanyi" : "不"
+    },
+    {
+      "fanyi" : "医生"
+    },
+    {
+      "fanyi" : "铅笔"
+    },
+    {
+      "fanyi" : "说话"
+    },
+    {
+      "fanyi" : "我"
+    },
+    {
+      "fanyi" : "是"
+    },
+    {
+      "fanyi" : "在"
+    }
+  ],
+  "luomaziData" : [
+    {
+      "luomazi" : "/vos/"
+    },
+    {
+      "luomazi" : "/un, 'uma/"
+    },
+    {
+      "luomazi" : "/tur'ista/"
+    },
+    {
+      "luomazi" : "/tu/"
+    },
+    {
+      "luomazi" : "/tres/"
+    },
+    {
+      "luomazi" : "/sin/"
+    },
+    {
+      "luomazi" : "/s'estu/"
+    },
+    {
+      "luomazi" : "/s'etʃimu/"
+    },
+    {
+      "luomazi" : "/s'etʃi/"
+    },
+    {
+      "luomazi" : "/ser/"
+    },
+    {
+      "luomazi" : "/seis/"
+    },
+    {
+      "luomazi" : "/seg'undu/"
+    },
+    {
+      "luomazi" : "/k'intu/"
+    },
+    {
+      "luomazi" : "/kw'artu/"
+    },
+    {
+      "luomazi" : "/profes'or/"
+    },
+    {
+      "luomazi" : "/prim'eiru/"
+    },
+    {
+      "luomazi" : "/portug'es/"
+    },
+    {
+      "luomazi" : "/portug'au/"
+    },
+    {
+      "luomazi" : "/'oitu/"
+    },
+    {
+      "luomazi" : "/oit'avu/"
+    },
+    {
+      "luomazi" : "[u, a, us, as]"
+    },
+    {
+      "luomazi" : "[n'ovi]"
+    },
+    {
+      "luomazi" : "[nos]"
+    },
+    {
+      "luomazi" : "[n'onu]"
+    },
+    {
+      "luomazi" : "[naŋ]"
+    },
+    {
+      "luomazi" : "[m'edʒiku]"
+    },
+    {
+      "luomazi" : "[l'apis]"
+    },
+    {
+      "luomazi" : "[fal'ar]"
+    },
+    {
+      "luomazi" : "[eu]"
+    },
+    {
+      "luomazi" : "[est'ar]"
+    },
+    {
+      "luomazi" : "[em]"
+    }
+  ],
+  "languageData" : {
+    "language" : "葡语单词🇵🇹"
+  }
 }
