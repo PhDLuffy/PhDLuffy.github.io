@@ -1,36 +1,6 @@
 {
   "fanyiData" : [
     {
-      "fanyi" : "这是什么？"
-    },
-    {
-      "fanyi" : "不🙅🏻‍♀️"
-    },
-    {
-      "fanyi" : "睡觉😴"
-    },
-    {
-      "fanyi" : "书📚"
-    },
-    {
-      "fanyi" : "笔🖊"
-    },
-    {
-      "fanyi" : "鱼🐟"
-    },
-    {
-      "fanyi" : "有"
-    },
-    {
-      "fanyi" : "驾驶"
-    },
-    {
-      "fanyi" : "走路🚶"
-    },
-    {
-      "fanyi" : "米饭🍚"
-    },
-    {
       "fanyi" : "水🚰"
     },
     {
@@ -92,39 +62,39 @@
     },
     {
       "fanyi" : "阅读📖"
+    },
+    {
+      "fanyi" : "跑步🏃"
+    },
+    {
+      "fanyi" : "男人👨🏻"
+    },
+    {
+      "fanyi" : "女人👩🏻"
+    },
+    {
+      "fanyi" : "喝"
+    },
+    {
+      "fanyi" : "吃"
+    },
+    {
+      "fanyi" : "男孩👦🏻"
+    },
+    {
+      "fanyi" : "一个"
+    },
+    {
+      "fanyi" : "女孩👧🏻"
+    },
+    {
+      "fanyi" : "一个"
+    },
+    {
+      "fanyi" : "你好"
     }
   ],
   "luomaziData" : [
-    {
-      "luomazi" : "/u kɨ ˈɛ ˈiʃtu/"
-    },
-    {
-      "luomazi" : "/ˈnɐ̃w̃/"
-    },
-    {
-      "luomazi" : "/duɾˈmĩdu/"
-    },
-    {
-      "luomazi" : "/ˈlivɾuʃ/"
-    },
-    {
-      "luomazi" : "/kɐˈnɛtɐʃ/"
-    },
-    {
-      "luomazi" : "/ˈpɐjʃɨ/"
-    },
-    {
-      "luomazi" : "/ˈtɐ̃j̃/"
-    },
-    {
-      "luomazi" : "/diɾiˈʒĩdu/"
-    },
-    {
-      "luomazi" : "/ɐ̃ˈdɐ̃du/"
-    },
-    {
-      "luomazi" : "/ɐˈʁɔʃ/"
-    },
     {
       "luomazi" : "/ˈaɡwɐ/"
     },
@@ -187,6 +157,36 @@
     },
     {
       "luomazi" : "/ˈlẽdu/"
+    },
+    {
+      "luomazi" : "/kuˈʁẽdu/"
+    },
+    {
+      "luomazi" : "/ˈɔmɐ̃j̃/"
+    },
+    {
+      "luomazi" : "/muˈʎeɾ/"
+    },
+    {
+      "luomazi" : "/bɨˈbẽdu/"
+    },
+    {
+      "luomazi" : "/kuˈmẽdu/"
+    },
+    {
+      "luomazi" : "/mɨˈninu/"
+    },
+    {
+      "luomazi" : "/ˈũ/"
+    },
+    {
+      "luomazi" : "/mɨˈninɐ/"
+    },
+    {
+      "luomazi" : "/ˈumɐ/"
+    },
+    {
+      "luomazi" : "/oˈla/"
     }
   ],
   "languageData" : {
@@ -384,36 +384,6 @@
   ],
   "riyuData" : [
     {
-      "riyu" : "O que é isto?"
-    },
-    {
-      "riyu" : "não"
-    },
-    {
-      "riyu" : "dormindo"
-    },
-    {
-      "riyu" : "livros"
-    },
-    {
-      "riyu" : "canetas"
-    },
-    {
-      "riyu" : "peixe"
-    },
-    {
-      "riyu" : "tem"
-    },
-    {
-      "riyu" : "dirigindo"
-    },
-    {
-      "riyu" : "andando"
-    },
-    {
-      "riyu" : "arroz"
-    },
-    {
       "riyu" : "água"
     },
     {
@@ -475,6 +445,36 @@
     },
     {
       "riyu" : "lendo"
+    },
+    {
+      "riyu" : "correndo"
+    },
+    {
+      "riyu" : "homem"
+    },
+    {
+      "riyu" : "mulher"
+    },
+    {
+      "riyu" : "bebendo"
+    },
+    {
+      "riyu" : "comendo"
+    },
+    {
+      "riyu" : "menino"
+    },
+    {
+      "riyu" : "um"
+    },
+    {
+      "riyu" : "menina"
+    },
+    {
+      "riyu" : "uma"
+    },
+    {
+      "riyu" : "Olá"
     }
   ]
 }
