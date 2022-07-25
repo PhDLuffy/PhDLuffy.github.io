@@ -195,6 +195,8 @@ nohup /usr/local/bin/python /xuexi/wechatListener.py >> /xuexi/user/wechat_liste
 发送`/add` 登录学 xi 账号，登录完成后获得 `数字ID_昵称`登录成功的消息。
 
 > 可以利用网页版学习来获得数字ID，目前好像微信公众号无法直接获取数字ID
+>
+> 使用今日积分来获取登录跳转连接，通过默认浏览器跳转学习，可以获得数字ID
 
 发送`/bind 微信编码 数字ID` 吧微信号和学 xi 账号绑定。如`/bind gw_djahdhfs 155555555`,不要有多余的空格。可以重复绑定，最后绑定的账号有效。
 
