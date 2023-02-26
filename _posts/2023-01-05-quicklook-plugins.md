@@ -28,5 +28,5 @@ tags:
 
 [插件下载地址](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins)
 
-下载插件，在插件上按空格键预览，点击install，安装成功之后重启quicklook即可
+下载插件，在插件上按空格键预览，点击install，安装成功之后重启quicklook即可。
 
