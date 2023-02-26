@@ -2,7 +2,7 @@
 layout:     post
 title:      小米智能家居在home-assistant中更新
 subtitle:   Xiaomi Miot For HomeAssistant
-date:       2023-02-27
+date:       2023-02-26
 author:     PhDLuffy
 header-img: img/Blog/post-index-bg-dengziqi.jpg
 music-id: 29802490
