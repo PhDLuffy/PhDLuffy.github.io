@@ -4,7 +4,7 @@ title: Anki与Obsidian联动制卡
 subtitle: iPhone上的anki卡片也能说话啦
 date: 2023-03-01
 author: PhDLuffy
-header-img: img/Blog/02.jpg
+header-img: img/Blog/03.jpg
 music-id: 29802490
 catalog: true
 tags:
