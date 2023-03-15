@@ -1,192 +1,192 @@
 {
     "fanyiData":[
         {
-            "fanyi":"不一致, 差异"
+            "fanyi":"略过, 浏览"
         },
         {
-            "fanyi":"面额"
+            "fanyi":"精明的, 机灵的"
         },
         {
-            "fanyi":"开始"
+            "fanyi":"破烂的; 衣衫褴褛的"
         },
         {
-            "fanyi":"困扰"
+            "fanyi":"开始; 生效"
         },
         {
-            "fanyi":"彻底的"
+            "fanyi":"一段时间的(活动)"
         },
         {
-            "fanyi":"否决, 驳回"
+            "fanyi":"相似; 外表, 外貌"
         },
         {
-            "fanyi":"拍卖"
+            "fanyi":"怒骂, 责骂"
         },
         {
-            "fanyi":"审问, 讯问"
+            "fanyi":"丑闻; 丢脸"
         },
         {
-            "fanyi":"兴奋, 狂喜"
+            "fanyi":"一袋, 麻袋"
         },
         {
-            "fanyi":"烈士"
+            "fanyi":"单凭经验的做法"
         },
         {
-            "fanyi":"战胜, 克服"
+            "fanyi":"反抗, 叛乱"
         },
         {
-            "fanyi":"显眼, 明显的"
+            "fanyi":"虔诚的, 恭敬的"
         },
         {
-            "fanyi":"不足, 缺乏的"
+            "fanyi":"税收"
         },
         {
-            "fanyi":"恸哭"
+            "fanyi":"揭露; 揭示"
         },
         {
-            "fanyi":"失望, 沮丧"
+            "fanyi":"反驳"
         },
         {
-            "fanyi":"誓言, 誓约"
+            "fanyi":"沉默不语的"
         },
         {
-            "fanyi":"非常棒的"
+            "fanyi":"恢复, 修复"
         },
         {
-            "fanyi":"冲突"
+            "fanyi":"反应积极的, 反应敏捷的"
         },
         {
-            "fanyi":"抵押借款"
+            "fanyi":"责备, 指责"
         },
         {
-            "fanyi":"混乱"
+            "fanyi":"悔恨"
         },
         {
-            "fanyi":"使受挫折"
+            "fanyi":"提供, 给予"
         },
         {
-            "fanyi":"认为"
+            "fanyi":"遗迹, 边角剩料"
         },
         {
-            "fanyi":"同盟"
+            "fanyi":"不情愿的, 勉强的"
         },
         {
-            "fanyi":"条款"
+            "fanyi":"使康复, 使恢复名誉"
         },
         {
-            "fanyi":"使困难"
+            "fanyi":"相互的, 互惠的"
         },
         {
-            "fanyi":"快乐地"
+            "fanyi":"毁坏, 荒废"
         },
         {
-            "fanyi":"贫乏的"
+            "fanyi":"集会"
         },
         {
-            "fanyi":"长篇独白"
+            "fanyi":"结束, 终止"
         },
         {
-            "fanyi":"擦伤, 青肿"
+            "fanyi":"恢复健康; 渡过难关"
         },
         {
-            "fanyi":"污染"
+            "fanyi":"努力实现"
         },
         {
-            "fanyi":"专长, 特长"
+            "fanyi":"振作起来"
         }
     ],
     "luomaziData":[
         {
-            "luomazi":"/dɪs'krep(ə)nsɪ/"
+            "luomazi":"[skɪm]"
         },
         {
-            "luomazi":"/dɪ,nɒmɪ'neɪʃ(ə)n/"
+            "luomazi":"[ʃru:d]"
         },
         {
-            "luomazi":"/kə'mens/"
+            "luomazi":"[ˈʃæbi]"
         },
         {
-            "luomazi":"/bɪ'set/"
+            "luomazi":"/---/"
         },
         {
-            "luomazi":"/'θʌrə/"
+            "luomazi":"[ˈseʃn]"
         },
         {
-            "luomazi":"/əʊvə'ruːl/"
+            "luomazi":"[ˈsembləns]"
         },
         {
-            "luomazi":"/'ɔːkʃ(ə)n/"
+            "luomazi":"[skəʊld]"
         },
         {
-            "luomazi":"/ɪn'terəgeɪt/"
+            "luomazi":"[ˈskændl]"
         },
         {
-            "luomazi":"/θrɪl/"
+            "luomazi":"[sæk]"
         },
         {
-            "luomazi":"/'mɑːtə/"
+            "luomazi":"/---/"
         },
         {
-            "luomazi":"/sə'maʊnt/"
+            "luomazi":"[rɪˈvəʊlt]"
         },
         {
-            "luomazi":"/kən'spɪkjʊəs/"
+            "luomazi":"[ˈrevərənt]"
         },
         {
-            "luomazi":"/skænt/"
+            "luomazi":"[ˈrevənju:]"
         },
         {
-            "luomazi":"/weɪl/"
+            "luomazi":"[ˌrevəˈleɪʃn]"
         },
         {
-            "luomazi":"/dɪs'meɪ/"
+            "luomazi":"[rɪˈtɔ:t]"
         },
         {
-            "luomazi":"/əʊθ/"
+            "luomazi":"[ˈretɪsnt]"
         },
         {
-            "luomazi":"/tə'rɪfɪk/"
+            "luomazi":"[rɪˈstɔ:(r)]"
         },
         {
-            "luomazi":"/klæʃ/"
+            "luomazi":"[rɪˈspɒnsɪv]"
         },
         {
-            "luomazi":"/'mɔːgɪdʒ/"
+            "luomazi":"[rɪˈprəʊtʃ]"
         },
         {
-            "luomazi":"/'tɜːmɒɪl/"
+            "luomazi":"[rɪˈpent]"
         },
         {
-            "luomazi":"/frʌ'streɪt/"
+            "luomazi":"[ˈrendə(r)]"
         },
         {
-            "luomazi":"/diːm/"
+            "luomazi":"[ˈremnənt]"
         },
         {
-            "luomazi":"/ˌkəʊə'lɪʃ(ə)n/"
+            "luomazi":"[rɪˈlʌktənt]"
         },
         {
-            "luomazi":"/klɔːz/"
+            "luomazi":"[ˌri:əˈbɪlɪteɪt]"
         },
         {
-            "luomazi":"/'bæf(ə)l/"
+            "luomazi":"[rɪˈsɪprəkl]"
         },
         {
-            "luomazi":"/'geɪlɪ/"
+            "luomazi":"[ˈrævɪdʒ]"
         },
         {
-            "luomazi":"/ˈmiːgə(r)/"
+            "luomazi":"[ˈræli]"
         },
         {
-            "luomazi":"/'mɒn(ə)lɒg/"
+            "luomazi":"/---/"
         },
         {
-            "luomazi":"/bruːz/"
+            "luomazi":"/---/"
         },
         {
-            "luomazi":"/dɪ'faɪl/"
+            "luomazi":"/---/"
         },
         {
-            "luomazi":"/'fɔːteɪ/"
+            "luomazi":"/---/"
         }
     ],
     "languageData":{
@@ -384,97 +384,97 @@
     ],
     "riyuData":[
         {
-            "riyu":"discrepancy"
+            "riyu":"skim"
         },
         {
-            "riyu":"denomination"
+            "riyu":"shrewd"
         },
         {
-            "riyu":"commence"
+            "riyu":"shabby"
         },
         {
-            "riyu":"beset"
+            "riyu":"set in"
         },
         {
-            "riyu":"thorough"
+            "riyu":"session"
         },
         {
-            "riyu":"overrule"
+            "riyu":"semblance"
         },
         {
-            "riyu":"auction"
+            "riyu":"scold"
         },
         {
-            "riyu":"interrogate"
+            "riyu":"scandal"
         },
         {
-            "riyu":"thrill"
+            "riyu":"sack"
         },
         {
-            "riyu":"martyr"
+            "riyu":"rule of thumb"
         },
         {
-            "riyu":"surmount"
+            "riyu":"revolt"
         },
         {
-            "riyu":"conspicuous"
+            "riyu":"reverent"
         },
         {
-            "riyu":"scant"
+            "riyu":"revenue"
         },
         {
-            "riyu":"wail"
+            "riyu":"revelation"
         },
         {
-            "riyu":"dismay"
+            "riyu":"retort"
         },
         {
-            "riyu":"oath"
+            "riyu":"reticent"
         },
         {
-            "riyu":"terrific"
+            "riyu":"restore"
         },
         {
-            "riyu":"clash"
+            "riyu":"responsive"
         },
         {
-            "riyu":"mortgage"
+            "riyu":"reproach"
         },
         {
-            "riyu":"turmoil"
+            "riyu":"repent"
         },
         {
-            "riyu":"frustrate"
+            "riyu":"render"
         },
         {
-            "riyu":"deem"
+            "riyu":"remnant"
         },
         {
-            "riyu":"coalition"
+            "riyu":"reluctant"
         },
         {
-            "riyu":"clause"
+            "riyu":"rehabilitate"
         },
         {
-            "riyu":"baffle"
+            "riyu":"reciprocal"
         },
         {
-            "riyu":"gaily"
+            "riyu":"ravage"
         },
         {
-            "riyu":"meagre"
+            "riyu":"rally"
         },
         {
-            "riyu":"monologue"
+            "riyu":"put an end to"
         },
         {
-            "riyu":"bruise"
+            "riyu":"pull through"
         },
         {
-            "riyu":"defile"
+            "riyu":"pull sth. off"
         },
         {
-            "riyu":"forte"
+            "riyu":"pull oneself together"
         }
     ]
 }
