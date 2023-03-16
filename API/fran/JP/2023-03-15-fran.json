@@ -1,192 +1,192 @@
 {
     "fanyiData":[
         {
-            "fanyi":"学习"
+            "fanyi":"有希望的, 有前途的"
         },
         {
-            "fanyi":"晚安"
+            "fanyi":"遗失, 丢失"
         },
         {
-            "fanyi":"喜欢😍"
+            "fanyi":"令人喜欢的"
         },
         {
-            "fanyi":"不要"
+            "fanyi":"从头到尾, 始终, 一贯"
         },
         {
-            "fanyi":"粉色"
+            "fanyi":"装模作样, 装腔作势"
         },
         {
-            "fanyi":"电视机📺"
+            "fanyi":"发生争执"
         },
         {
-            "fanyi":"中国人🇨🇳"
+            "fanyi":"偏离, 错过"
         },
         {
-            "fanyi":"你好"
+            "fanyi":"性情, 性格"
         },
         {
-            "fanyi":"不,不是"
+            "fanyi":"粗暴的, 粗野的"
         },
         {
-            "fanyi":"非常,很"
+            "fanyi":"念, 诵"
         },
         {
-            "fanyi":"是的"
+            "fanyi":"自由自在, 自如, 随意"
         },
         {
-            "fanyi":"你"
+            "fanyi":"分条写, 分项写"
         },
         {
-            "fanyi":"黑色"
+            "fanyi":"正当, 合理"
         },
         {
-            "fanyi":"烦恼 东野圭吾的解忧杂货店(ナミヤ)后两个片假名颠倒顺序"
+            "fanyi":"惩前毖后"
         },
         {
-            "fanyi":"妹"
+            "fanyi":"野心, 奢望"
         },
         {
-            "fanyi":"夏天"
+            "fanyi":"误差"
         },
         {
-            "fanyi":"一"
+            "fanyi":"妨碍, 障碍"
         },
         {
-            "fanyi":"如果"
+            "fanyi":"起伏, 凹凸"
         },
         {
-            "fanyi":"肉"
+            "fanyi":"字帖, 画帖"
         },
         {
-            "fanyi":"瞧，语气词，引起注意"
+            "fanyi":"必然"
         },
         {
-            "fanyi":"爱❤️"
+            "fanyi":"好意, 美意"
         },
         {
-            "fanyi":"夜"
+            "fanyi":"连成一排"
         },
         {
-            "fanyi":"我"
+            "fanyi":"剥下, 揭下"
         },
         {
-            "fanyi":"蜜柑，橘子🍊"
+            "fanyi":"密集, 稠密"
         },
         {
-            "fanyi":"樱花"
+            "fanyi":"推敲, 研究"
         },
         {
-            "fanyi":"海贼"
+            "fanyi":"能力, 本事"
         },
         {
-            "fanyi":"车🚖"
+            "fanyi":"如何, 怎样"
         },
         {
-            "fanyi":"餐馆,西餐馆"
+            "fanyi":"上梁, 上梁仪式"
         },
         {
-            "fanyi":"风衣大衣"
+            "fanyi":"贪恋, 留恋"
         },
         {
-            "fanyi":"想（和你）见面；想见到……"
+            "fanyi":"对待, 接待"
         },
         {
-            "fanyi":"雪❄"
+            "fanyi":"气质, 禀性"
         }
     ],
     "luomaziData":[
         {
-            "luomazi":"benkyou"
+            "luomazi":"yuubou"
         },
         {
-            "luomazi":"oyasuminasai"
+            "luomazi":"funnsitu"
         },
         {
-            "luomazi":"suki"
+            "luomazi":"konomasii"
         },
         {
-            "luomazi":"dame"
+            "luomazi":"shuushi"
         },
         {
-            "luomazi":"pinku"
+            "luomazi":"kiza"
         },
         {
-            "luomazi":"terebi"
+            "luomazi":"momeru"
         },
         {
-            "luomazi":"cyuugokujin"
+            "luomazi":"sorasu"
         },
         {
-            "luomazi":"konnichiha"
+            "luomazi":"kidate"
         },
         {
-            "luomazi":"iie"
+            "luomazi":"arappoi"
         },
         {
-            "luomazi":"doumo"
+            "luomazi":"tonaeru"
         },
         {
-            "luomazi":"hai"
+            "luomazi":"jizai"
         },
         {
-            "luomazi":"anata"
+            "luomazi":"kajougaki"
         },
         {
-            "luomazi":"kuro"
+            "luomazi":"seitou"
         },
         {
-            "luomazi":"nayami"
+            "luomazi":"koriru"
         },
         {
-            "luomazi":"imouto"
+            "luomazi":"yashinn"
         },
         {
-            "luomazi":"tatsu"
+            "luomazi":"gosa"
         },
         {
-            "luomazi":"ichi"
+            "luomazi":"sasitukaeru"
         },
         {
-            "luomazi":"moshimo"
+            "luomazi":"kifuku"
         },
         {
-            "luomazi":"niku"
+            "luomazi":"tehonn"
         },
         {
-            "luomazi":"hora"
+            "luomazi":"hitsuzenn"
         },
         {
-            "luomazi":"ai"
+            "luomazi":"koui"
         },
         {
-            "luomazi":"yoru"
+            "luomazi":"turaneru"
         },
         {
-            "luomazi":"watachi"
+            "luomazi":"hagu"
         },
         {
-            "luomazi":"mikan"
+            "luomazi":"misshuu"
         },
         {
-            "luomazi":"sakura"
+            "luomazi":"neru"
         },
         {
-            "luomazi":"kaizoku"
+            "luomazi":"udemae"
         },
         {
-            "luomazi":"kuruma"
+            "luomazi":"ikani"
         },
         {
-            "luomazi":"resutoran"
+            "luomazi":"tatemae"
         },
         {
-            "luomazi":"ko-to"
+            "luomazi":"shuutyaku"
         },
         {
-            "luomazi":"aitai"
+            "luomazi":"motenasu"
         },
         {
-            "luomazi":"yuki"
+            "luomazi":"kisitu"
         }
     ],
     "languageData":{
@@ -194,287 +194,287 @@
     },
     "symbolData":[
         {
-            "symbol":"person.crop.circle.badge.clock"
+            "symbol":"eyes"
         },
         {
-            "symbol":"person.crop.circle.badge.moon"
+            "symbol":"eyes"
         },
         {
-            "symbol":"arrow.up.heart"
+            "symbol":"eyes"
         },
         {
-            "symbol":"location.slash"
+            "symbol":"eyes"
         },
         {
-            "symbol":"allergens"
+            "symbol":"eyes"
         },
         {
-            "symbol":"4k.tv"
+            "symbol":"eyes"
         },
         {
-            "symbol":"person.3"
+            "symbol":"eyes"
         },
         {
-            "symbol":"person.wave.2"
+            "symbol":"eyes"
         },
         {
-            "symbol":"multiply"
+            "symbol":"eyes"
         },
         {
-            "symbol":"greaterthan"
+            "symbol":"eyes"
         },
         {
-            "symbol":"lessthan"
+            "symbol":"eyes"
         },
         {
-            "symbol":"person.fill.checkmark"
+            "symbol":"eyes"
         },
         {
-            "symbol":"seal.fill"
+            "symbol":"eyes"
         },
         {
-            "symbol":"brain.head.profile"
+            "symbol":"eyes"
         },
         {
-            "symbol":"person.2"
+            "symbol":"eyes"
         },
         {
-            "symbol":"sun.haze"
+            "symbol":"eyes"
         },
         {
-            "symbol":"minus"
+            "symbol":"eyes"
         },
         {
-            "symbol":"option"
+            "symbol":"eyes"
         },
         {
-            "symbol":"fork.knife"
+            "symbol":"eyes"
         },
         {
-            "symbol":"person.fill.and.arrow.left.and.arrow.right"
+            "symbol":"eyes"
         },
         {
-            "symbol":"heart"
+            "symbol":"eyes"
         },
         {
-            "symbol":"sun.min"
+            "symbol":"eyes"
         },
         {
-            "symbol":"applelogo"
+            "symbol":"eyes"
         },
         {
-            "symbol":"applelogo"
+            "symbol":"eyes"
         },
         {
-            "symbol":"leaf"
+            "symbol":"eyes"
         },
         {
-            "symbol":"ferry"
+            "symbol":"eyes"
         },
         {
-            "symbol":"car"
+            "symbol":"eyes"
         },
         {
-            "symbol":"takeoutbag.and.cup.and.straw"
+            "symbol":"eyes"
         },
         {
-            "symbol":"tshirt"
+            "symbol":"eyes"
         },
         {
-            "symbol":"person.wave.2.fill"
+            "symbol":"eyes"
         },
         {
-            "symbol":"cloud.snow"
+            "symbol":"eyes"
         }
     ],
     "symbolcolorData":[
         {
-            "symbolcolor":"person.crop.circle.badge.clock"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"person.crop.circle.badge.moon"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"arrow.up.heart"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"location.slash"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"allergens"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"4k.tv"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"person.3"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"person.wave.2"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"multiply"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"greaterthan"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"lessthan"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"person.fill.checkmark"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"seal.fill"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"brain.head.profile"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"person.2"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"sun.haze"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"minus"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"option"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"fork.knife"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"person.fill.and.arrow.left.and.arrow.right"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"heart"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"sun.min"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"applelogo"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"applelogo"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"leaf"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"ferry"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"car"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"takeoutbag.and.cup.and.straw"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"tshirt"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"person.wave.2.fill"
+            "symbolcolor":"eyes"
         },
         {
-            "symbolcolor":"cloud.snow"
+            "symbolcolor":"eyes"
         }
     ],
     "riyuData":[
         {
-            "riyu":"べんきょう　勉強"
+            "riyu":"有望　ゆうぼう"
         },
         {
-            "riyu":"おやすみなさい"
+            "riyu":"紛失　ふんしつ"
         },
         {
-            "riyu":"すき　好き"
+            "riyu":"好ましい　このましい"
         },
         {
-            "riyu":"だめ"
+            "riyu":"終始　しゅうし"
         },
         {
-            "riyu":"ピンク"
+            "riyu":"気障　きざ"
         },
         {
-            "riyu":"テレビ"
+            "riyu":"揉める　もめる"
         },
         {
-            "riyu":"ちゅうごくじん"
+            "riyu":"逸らす　そらす"
         },
         {
-            "riyu":"こんにちは"
+            "riyu":"気立て　きだて"
         },
         {
-            "riyu":"いいえ"
+            "riyu":"荒っぽい　あらっぽい　"
         },
         {
-            "riyu":"どうも"
+            "riyu":"唱える　となえる"
         },
         {
-            "riyu":"はい"
+            "riyu":"自在　じざい"
         },
         {
-            "riyu":"あなた"
+            "riyu":"箇条書き　かじょうがき"
         },
         {
-            "riyu":"くろ　黒"
+            "riyu":"正当　せいとう"
         },
         {
-            "riyu":"なやみ　悩み"
+            "riyu":"懲りる　こりる"
         },
         {
-            "riyu":"いもうと　妹"
+            "riyu":"野心　やしん"
         },
         {
-            "riyu":"たつ"
+            "riyu":"誤差　ごさ"
         },
         {
-            "riyu":"いち"
+            "riyu":"差し支える　さしつかえる"
         },
         {
-            "riyu":"もしも"
+            "riyu":"起伏　きふく"
         },
         {
-            "riyu":"にく"
+            "riyu":"手本　てほん"
         },
         {
-            "riyu":"ほら"
+            "riyu":"必然　ひつぜん"
         },
         {
-            "riyu":"あい   愛"
+            "riyu":"好意　こうい"
         },
         {
-            "riyu":"よる"
+            "riyu":"連ねる　つらねる"
         },
         {
-            "riyu":"わたし   私"
+            "riyu":"接ぐ　はぐ"
         },
         {
-            "riyu":"みかん"
+            "riyu":"密集　みっしゅう"
         },
         {
-            "riyu":"さくら 桜🌸"
+            "riyu":"練る　ねる"
         },
         {
-            "riyu":"かいぞく　海賊"
+            "riyu":"腕前　うでまえ"
         },
         {
-            "riyu":"くるま　車"
+            "riyu":"如何に　いかに"
         },
         {
-            "riyu":"レストラン"
+            "riyu":"建前　たてまえ"
         },
         {
-            "riyu":"コート"
+            "riyu":"執着　しゅうちゃく"
         },
         {
-            "riyu":"会いたい"
+            "riyu":"持て成す　もてなす"
         },
         {
-            "riyu":"ゆき　雪"
+            "riyu":"気質　きしつ"
         }
     ]
 }
