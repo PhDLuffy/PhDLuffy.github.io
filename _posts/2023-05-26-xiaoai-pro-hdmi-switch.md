@@ -5,7 +5,7 @@ subtitle: 小爱音箱Pro控制HDMI切换器切换显示器
 date: 2023-05-26
 author: PhDLuffy
 header-img: img/Blog/02.jpg
-music-id: 29802490
+music-id: 505451285
 catalog: true
 tags:
     - 奇技淫巧
