@@ -4,7 +4,7 @@ title: 终于可以在副屏上显示空气质量啦
 subtitle: Macrodeck上显示HomeAssistant中三星空气监测数据
 date: 2023-06-13
 author: PhDLuffy
-header-img: img/Blog/02.jpg
+header-img: img/Blog/blog-20230612-01-mcrodeck.jpg
 music-id: 29802490
 catalog: true
 tags:
