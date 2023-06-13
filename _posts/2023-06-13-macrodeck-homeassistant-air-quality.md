@@ -46,7 +46,7 @@ HA&rarr;配置&rarr;添加集成&rarr;SmartThings&rarr;添加Smartthing的Token
 
 勾选air_quality的变量
 
-![image-20230613114235006](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202306131142147.png)
+![Macrodeck变量添加](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202306131142147.png)
 
 ### 设置显示图标
 
