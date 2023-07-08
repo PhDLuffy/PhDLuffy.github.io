@@ -81,6 +81,26 @@ layout: default
                 col-xs-12
                 sidebar-container
             ">
+
+                <!-- HTML elements for search -->
+                <input type="text" id="search-input" placeholder="点我搜索" style="width:380px;"/>
+                <ul id="results-container"></ul>
+
+                <!-- script pointing to jekyll-search.js -->
+                <script src="/js/simple-jekyll-search.min.js"></script>
+
+                <script>
+                SimpleJekyllSearch({
+                searchInput: document.getElementById('search-input'),
+                resultsContainer: document.getElementById('results-container'),
+                json: '/search.json',
+                searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+                noResultsText: '没有搜索到文章',
+                limit: 20,
+                fuzzy: false
+                })
+                </script>
+
                 <!-- Featured Tags -->
                 {% if site.featured-tags %}
                 <section>

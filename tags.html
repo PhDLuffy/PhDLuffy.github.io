@@ -19,6 +19,8 @@ header-img: "img/tag-bg.jpg"
     </div>
 </header>
 
+
+
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
@@ -35,6 +37,25 @@ header-img: "img/tag-bg.jpg"
                     <li>行业观察、职位、公司优先使用中文</li>
                     <li>外国产品、术语优先使用英文</li>
             </blockquote>-->
+			
+			<!-- HTML elements for search -->
+			<input type="text" id="search-input" placeholder="点我搜索" style="width:380px;"/>
+			<ul id="results-container"></ul>
+
+			<!-- script pointing to jekyll-search.js -->
+			<script src="/js/simple-jekyll-search.min.js"></script>
+
+			<script>
+			SimpleJekyllSearch({
+			searchInput: document.getElementById('search-input'),
+			resultsContainer: document.getElementById('results-container'),
+			json: '/search.json',
+			searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+			noResultsText: '没有搜索到文章',
+			limit: 20,
+			fuzzy: false
+			})
+			</script>
 
             <!-- 标签列表 -->
 			{% for tag in site.tags %}
