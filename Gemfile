@@ -8,7 +8,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.6"
+
+ruby File.read(".ruby-version").strip
+
+gem "jekyll", "~> 4.3.0"
 gem "jekyll-paginate"
 gem 'jekyll-admin', group: :jekyll_plugins
 gem 'jekyll-seo-tag'
