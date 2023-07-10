@@ -12,6 +12,7 @@ header-img: "img/post-index-bg-swift.jpg"
     <option value="1"> 英文 | English </option>
     <option value="2"> 日语 | Japanese </option>
     <option value="3"> 粤语 | Cantonese </option>
+    <option value="4"> 其他 | Others </option>
 </select> 
 
 <!-- Chinese Version -->
@@ -38,6 +39,12 @@ header-img: "img/post-index-bg-swift.jpg"
     {{ about_ct | markdownify }}    
 </div> 
 
+<!-- Others Version -->
+<div class="ot post-container">
+    {% capture about_ot %}{% include music/ot.md %}{% endcapture %}
+    {{ about_ot | markdownify }}    
+</div> 
+
 <Handle Language Change>
 <script type="text/javascript">
     // get nodes
@@ -45,6 +52,7 @@ header-img: "img/post-index-bg-swift.jpg"
     var $en = document.querySelector(".en");
     var $jp = document.querySelector(".jp");
     var $ct = document.querySelector(".ct");
+    var $ct = document.querySelector(".ot");
     var $select = document.querySelector("select");
 
     // bind hashchange event
@@ -60,6 +68,7 @@ header-img: "img/post-index-bg-swift.jpg"
             $en.style.display = "block";
             $jp.style.display = "none";
             $ct.style.display = "none";
+            $ot.style.display = "none";
         // jp
         }else if(_hash == "#jp"){
             $select.selectedIndex = 2;
@@ -67,6 +76,7 @@ header-img: "img/post-index-bg-swift.jpg"
             $en.style.display = "none";
             $jp.style.display = "block";
             $ct.style.display = "none";
+            $ot.style.display = "none";
         // ct
         }else if(_hash == "#ct"){
             $select.selectedIndex = 3;
@@ -74,6 +84,15 @@ header-img: "img/post-index-bg-swift.jpg"
             $en.style.display = "none";
             $jp.style.display = "none";
             $ct.style.display = "block";
+            $ot.style.display = "none";
+            // ct
+        }else if(_hash == "#ot"){
+            $select.selectedIndex = 4;
+            $zh.style.display = "none";
+            $en.style.display = "none";
+            $jp.style.display = "none";
+            $ct.style.display = "none";
+            $ot.style.display = "block";
         // zh by default
         }else{
             // not trigger onChange, otherwise cause a loop call.
@@ -82,6 +101,7 @@ header-img: "img/post-index-bg-swift.jpg"
             $en.style.display = "none";
             $jp.style.display = "none";
             $ct.style.display = "none";
+            $ot.style.display = "none";
         }
     }
     
@@ -95,6 +115,8 @@ header-img: "img/post-index-bg-swift.jpg"
             window.location.hash = "#jp"
         }else if(index == 3){
             window.location.hash = "#ct"
+        }else if(index == 4){
+            window.location.hash = "#ot"
         }
     }
     
