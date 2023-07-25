@@ -73,6 +73,7 @@ tags:
 - 域名.key是证书秘钥
 
 上传到X-UI的证书选择第2个域名.cer证书和private.key即可
+用于home assistant的外部链接frp反代的ha的ssl文件夹中选择fullchain.cer和域名.key
 
 ![image-20230710124629262](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202307101246908.png)
 
