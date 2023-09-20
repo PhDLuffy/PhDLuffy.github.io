@@ -80,7 +80,7 @@ Anki牌组名
 
 删除卡片单词
 
-在<!--ID: XXXXXX-->前面添加DELETE，再点击同步按钮，即可同步删除Anki中的单词卡片
+在`<!--ID: XXXXXX-->`前面添加DELETE(中间无空格)，再点击同步按钮，即可同步删除Anki中的单词卡片
 
 ![image-20230301010948125](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202303010114693.png)
 
