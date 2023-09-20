@@ -12,6 +12,31 @@ tags:
 
 ---
 
+#### Anki软件插件设置
+
+安装AnkiConnect插件，插件安装代码2055492159，插件网址为 [AnkiConnect](https://ankiweb.net/shared/info/2055492159)
+
+在如图所在的AnkiConnect插件设置处填入如下代码
+
+```json
+{
+    "apiKey": null,
+    "apiLogPath": null,
+    "ignoreOriginList": [],
+    "webBindAddress": "127.0.0.1",
+    "webBindPort": 8765,
+    "webCorsOrigin": "http://localhost",
+    "webCorsOriginList": [
+        "http://localhost",
+        "app://obsidian.md"
+    ]
+}
+```
+
+
+
+![image-20230920184638752](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202309201846786.png)
+
 #### Obsidian插件中心Obsidian_to_Anki设置
 
 Obsidian设置-第三方插件-Obsidian_to_Anki设置-Note type settings-Note Type Table
