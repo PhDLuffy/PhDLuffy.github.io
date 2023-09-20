@@ -12,7 +12,17 @@ tags:
 
 ---
 
-   
+#### Obsidian插件中心Obsidian_to_Anki设置
+
+Obsidian设置-第三方插件-Obsidian_to_Anki设置-Note type settings-Note Type Table
+
+![插件中心](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202309201833598.png)
+
+Basic这个卡片类型的Custom Regexp里面填上以下代码
+
+`((?:[^\n][\n]?)+) #flashcard ?\n*((?:\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)`
+
+![Obsidian_to_Anki设置](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202309201836001.png)
 
 #### Obsidian库文件夹-anki文件夹-新建一个md文件
 
