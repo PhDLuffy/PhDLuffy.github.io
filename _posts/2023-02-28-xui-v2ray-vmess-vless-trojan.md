@@ -47,3 +47,7 @@ tags:
 ![2-V2rayN设置](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202302281343377.jpg)
 
 分享以V2rayN的导出链接为准。
+
+
+
+x-ui在vps上的管理命令为`x-ui`
