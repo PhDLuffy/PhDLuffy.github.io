@@ -4,12 +4,11 @@ title: Ollama终于用上我的显卡坞老古董RX580了
 subtitle: Ollama在Windows下利用RX580显卡加速并局域网分享
 date: 2024-08-08
 author: PhDLuffy
-header-img: img/Blog/02.jpg
+header-img: img/Blog/13.jpg
 music-id: 29802490
 catalog: true
 tags:
-    - 软件
-
+  - 软件
 ---
 
 项目地址：[likelovewant/ollama-for-amd](https://github.com/likelovewant/ollama-for-amd)
