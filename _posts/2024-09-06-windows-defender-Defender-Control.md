@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 垃圾Windows一切后台静置就开始疯狂占资源风扇起飞
-subtitle: 关闭windows鸡肋般的windows defender
+title: 关闭Windows鸡肋般的Windows defender
+subtitle: 垃圾Windows一切后台静置就开始疯狂占资源风扇起飞
 date: 2024-09-06
 author: PhDLuffy
 header-img: img/Blog/15.jpg
