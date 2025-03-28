@@ -4,7 +4,7 @@ title: X-UI添加节点
 subtitle: vless-vmess-trojan-域名下级分页
 date: 2023-02-28
 author: PhDLuffy
-header-img: img/Blog/1.jpg
+header-img: img/Blog/01.jpg
 music-id: 29802490
 catalog: true
 tags:
