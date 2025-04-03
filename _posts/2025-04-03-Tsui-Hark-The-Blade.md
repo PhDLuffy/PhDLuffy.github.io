@@ -4,7 +4,7 @@ title: 徐克的《断刀客》
 subtitle: 就想写点什么
 date: 2025-04-03
 author: PhDLuffy
-header-img: img/img/header-img/4/3.jpg
+header-img: img/header-img/4/3.jpg
 music-id: 29802490
 catalog: true
 tags:
