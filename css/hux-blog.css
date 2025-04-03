@@ -711,56 +711,8 @@ footer .copyright a:hover,
 footer .copyright a:focus {
   color: #0085a1;
 }
-.floating-label-form-group {
-  font-size: 14px;
-  position: relative;
-  margin-bottom: 0;
-  padding-bottom: 0.5em;
-  border-bottom: 1px solid #eeeeee;
-}
-.floating-label-form-group input,
-.floating-label-form-group textarea {
-  z-index: 1;
-  position: relative;
-  padding-right: 0;
-  padding-left: 0;
-  border: none;
-  border-radius: 0;
-  font-size: 1.5em;
-  background: none;
-  box-shadow: none !important;
-  resize: none;
-}
-.floating-label-form-group label {
-  display: block;
-  z-index: 0;
-  position: relative;
-  top: 2em;
-  margin: 0;
-  font-size: 0.85em;
-  line-height: 1.764705882em;
-  vertical-align: middle;
-  vertical-align: baseline;
-  opacity: 0;
-  -webkit-transition: top 0.3s ease,opacity 0.3s ease;
-  -moz-transition: top 0.3s ease,opacity 0.3s ease;
-  -ms-transition: top 0.3s ease,opacity 0.3s ease;
-  transition: top 0.3s ease,opacity 0.3s ease;
-}
-.floating-label-form-group::not(:first-child) {
-  padding-left: 14px;
-  border-left: 1px solid #eeeeee;
-}
-.floating-label-form-group-with-value label {
-  top: 0;
-  opacity: 1;
-}
-.floating-label-form-group-with-focus label {
-  color: #0085a1;
-}
-form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #eeeeee;
-}
+
+
 .btn {
   /* Hux learn from
      *     TypeIsBeautiful,
@@ -1039,46 +991,7 @@ img::-moz-selection {
 .navbar-default .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 3px;
 }
-/* Hux customize Style for Duoshuo */
-.comment {
-  margin-top: 20px;
-}
-.comment #ds-thread #ds-reset a.ds-like-thread-button {
-  border: 1px solid #ddd;
-  border-radius: 0px;
-  background: white;
-  box-shadow: none;
-  text-shadow: none;
-}
-.comment #ds-thread #ds-reset li.ds-tab a.ds-current {
-  border: 1px solid #ddd;
-  border-radius: 0px;
-  background: white;
-  box-shadow: none;
-  text-shadow: none;
-}
-.comment #ds-thread #ds-reset .ds-textarea-wrapper {
-  background: none;
-}
-.comment #ds-thread #ds-reset .ds-gradient-bg {
-  background: none;
-}
-.comment #ds-thread #ds-reset .ds-post-options {
-  border-bottom: 1px solid #ccc;
-}
-.comment #ds-thread #ds-reset .ds-post-button {
-  border-bottom: 1px solid #ccc;
-}
-.comment #ds-thread #ds-reset .ds-post-button {
-  background: white;
-  box-shadow: none;
-}
-.comment #ds-thread #ds-reset .ds-post-button:hover {
-  background: #eeeeee;
-}
-#ds-smilies-tooltip ul.ds-smilies-tabs li a {
-  background: white !important;
-}
+
 .page-fullscreen .intro-header {
   position: fixed;
   left: 0;
@@ -1124,8 +1037,8 @@ img::-moz-selection {
   color: #ddd;
 }
 
-.search-box {
-  padding-top: 80px;
+.search-page {
+
   position: fixed;
   top: 0;
   right: 0;
@@ -1133,49 +1046,64 @@ img::-moz-selection {
   left: 0;
   z-index: 100;
   background: #fff;
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.25s ease-in-out;
+  -webkit-transition: all 400ms cubic-bezier(0.32, 1, 0.23, 1);
+  transition: all 400ms cubic-bezier(0.32, 1, 0.23, 1);
   -webkit-transform: translate(0, 100%);
   -ms-transform: translate(0, 100%);
   transform: translate(0, 100%);
+  opacity: 0;
 }
 
-#search-input {
-  width: 100%;
-
-  border: none;
-
-  outline: none;
-  font-size: 26px;
-  font-weight: bold;
-  color: #3e3e40;
-}
-.results-search {
-  list-style: none;
-  overflow: auto;
-  height: 90vh;
-  margin: 0;
-  padding: 0;
-}
-
-.search-box.search-active {
+.search-page.search-active {
+  opacity: 1;
   -webkit-transform: translate(0, 0) scale(1, 1);
   -ms-transform: translate(0, 0) scale(1, 1);
   transform: translate(0, 0) scale(1, 1);
 }
-.icon-close-container {
+.search-page.search-active #search-input {
+  opacity: 1;
+}
+.search-page .search-main {
+  padding-top: 80px;
+  height: 100%;
+}
+.search-page .search-main .row,
+.search-page .search-main .row > div {
+  height: 100%;
+}
+.search-page .search-icon-close-container {
   position: absolute;
+  z-index: 1;
   padding: 16px;
   top: 0;
   right: 2px;
 }
-.icon-close-container i {
+.search-page .search-icon-close-container i {
   font-size: 20px;
 }
 
-.search-icon-container {
-  width: 25%;
-  text-align: right;
+.search-page #search-input {
+  font-family: "Fira Code", Menlo, Monaco, Consolas, "Courier New", monospace;
+  width: 100%;
+  font-size: 30px;
+  font-weight: bold;
+  color: #3e3e40;
+  border: none;
+  outline: none;
+  opacity: 0;
+  -webkit-transition: all 400ms cubic-bezier(0.32, 1, 0.23, 1) 250ms;
+  transition: all 400ms cubic-bezier(0.32, 1, 0.23, 1) 250ms;
+}
+@media only screen and (min-width: 768px) {
+  .search-page #search-input {
+    margin-left: 20px;
+  }
+}
+.search-page #search-results {
+  overflow: auto;
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 80px;
 }
 .search-icon a,
 .search-icon-close {
@@ -1192,4 +1120,8 @@ img::-moz-selection {
 .search-icon,
 .search-icon-close {
   font-size: 16px;
+}
+
+.no-scroll {
+  overflow-y: hidden;
 }
