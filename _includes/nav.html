@@ -19,11 +19,19 @@
                     <li>
                         <a href="{{ site.baseurl }}/">Home</a>                                                                          
                     </li>
-                    {% for page in site.pages %}{% if page.title %}
+                    {% for page in site.pages %}
+                    {% if page.title and page.hide-in-nav != true %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
-                    {% endif %}{% endfor %}
+                    {% endif %}
+                    {% endfor %}
+                    <li class="search-icon">
+                        <a href="javascript:void(0)">
+                            <i class="fa fa-search"></i>
+                            Search
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -31,6 +39,7 @@
     </div>
     <!-- /.container -->
 </nav>
+
 <script>
     // Drop Bootstarp low-performance Navbar
     // Use customize navbar with high-quality material design animation
