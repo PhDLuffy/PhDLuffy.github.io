@@ -30,9 +30,9 @@ tags:
 
 3. 转到以下文件夹: ~/Library/Application Support/MathWorks/MATLAB
 
-   > 删除对应年份版本的文件夹
+> 删除对应年份版本的文件夹
 
-   > 对于R2016a及更早版本：~/.matlab
+> 对于R2016a及更早版本：~/.matlab
 
 ## 安装matlab
 
@@ -42,9 +42,9 @@ tags:
 
 > 需耐心等待软件安装界面自己弹出，需要较长时间，不要乱动
 
-![56212332](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221523356.webp)
+![1](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230745166.jpg)
 
-![123](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221523649.webp)
+![2](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230745433.jpg)
 
 当您被要求“输入文件安装密钥”时，请输入以下密钥：
 
@@ -52,13 +52,13 @@ tags:
 13524-34118-36356-04705-52908-49554-62658-50524-11699-58869-31128-29691-04297-03972-41841-25259-39095-20560-15057-30691-09676-24411-20994-63771-19270-40917
 ```
 
-![36](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221524595.webp)
+![3](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230745902.jpg)
 
 当您被要求“选择许可文件”时，浏览到/medicine/文件的文件夹中选择“license.lic”文件。
 
-![2](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221524486.webp)
+![4](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230746706.jpg)
 
-![54223](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221525744.gif)
+![5](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221525744.gif)
 
 然后选择您想要安装 Matlab 的文件夹。默认即可
 
@@ -66,13 +66,13 @@ tags:
 
 选择安装组件,默认全选,自己根据需要选择也可以, 只选择`MATLAB`的安装大小为3.5G左右
 
-![23](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221526501.webp)
+![6](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230746590.jpg)
 
-![5](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221526052.webp)
+![7](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230746904.jpg)
 
-![3434](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221526976.webp)
+![8](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230746433.jpg)
 
-![65](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221526642.webp)
+![9](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230747750.jpg)
 
 从包含/medicine/文件夹的文件夹中复制文件“libmwlmgrimpl.dylib”到
 
@@ -97,10 +97,10 @@ Intel芯片路径 `/Applications/MATLAB_R2024a.app/bin/maci64/matlab_startup_plu
 ```bash
 /Applications/MATLAB_R2024a.app/bin/maca64/matlab_jenv /Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home
 ```
+
 运行软件即可。
 
-![56](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507221529591.webp)
-
+![10](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202507230747542.jpg)
 
 参考文献：
 
