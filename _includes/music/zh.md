@@ -12,4 +12,5 @@
 | [匿名的安慰](https://music.163.com/song?id=22854070&userid=348406050) | 王心凌 | 2012 |22854070|
 | [还是好朋友](https://music.163.com/song?id=1480380024&userid=348406050) | 王心凌 | 2020 |1480380024|
 | [左边](https://music.163.com/song?id=22740077&userid=348406050) | 杨丞琳 | 2010 |22740077|
+| [突然想起你](https://music.163.com/song?id=307679&uct2=U2FsdGVkX18ZJ+IY1JY0Z/hcVeMOztzw9aiEGCWfWEQ=) | 萧亚轩 | 1999 |307679|
 
