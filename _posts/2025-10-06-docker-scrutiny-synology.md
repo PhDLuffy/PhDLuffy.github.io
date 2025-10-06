@@ -39,6 +39,8 @@ services:
       - "/dev/sda"
       - "/dev/sdb"
       - "/dev/nvme0n1"
+    environment:
+      - COLLECTOR_CRON_SCHEDULE="0 */5 * * *"
 
 ```
 
