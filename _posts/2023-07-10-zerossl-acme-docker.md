@@ -1,15 +1,14 @@
 ---
 layout: post
 title: 自动申请泛域名证书
-subtitle: zerossl通过came.sh申请泛域名证书用于各个服务
+subtitle: zerossl通过acme.sh申请泛域名证书用于各个服务
 date: 2023-07-10
 author: PhDLuffy
 header-img: img/Blog/06.jpg
 music-id: 29802490
 catalog: true
 tags:
-    - 奇技淫巧
-
+  - 奇技淫巧
 ---
 
 ## Docker
