@@ -72,7 +72,9 @@ tags:
 - fullchain.cer证书是上面两个证书的结合
 - 域名.key是证书秘钥
 
-上传到X-UI的证书选择第2个域名.cer证书和private.key即可
+上传到X-UI的证书选择第3个fullchain.cer证书和private.key即可
+>如果选择的是第2个域名.cer证书，会出现io ... pipe 错误
+
 用于home assistant的外部链接frp反代的ha的ssl文件夹中选择fullchain.cer和域名.key
 
 ![image-20230710124629262](https://fastly.jsdelivr.net/gh/PhDLuffy/PicGo@master/img/202307101246908.png)
